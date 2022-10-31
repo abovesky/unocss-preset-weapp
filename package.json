@@ -1,5 +1,5 @@
 {
-  "name": "unocss-preset-weapp",
+  "name": "@abovesky/unocss-preset-weapp",
   "version": "0.2.1",
   "description": "the unocss preset for wechat miniprogram",
   "author": "abovesky",
